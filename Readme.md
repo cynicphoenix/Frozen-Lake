@@ -43,24 +43,17 @@ In starter_code directory open cmd/bash/jupyter-notebook :<br />
 ## Plots
 
 #### Deterministic Policy Iteration
-<br />
-![alt text](https://raw.githubusercontent.com/cynicphoenix/Frozen-Lake/main/plot/Detereministic_Policy_Iteration.png)
-<br /><br />
+
+![](https://raw.githubusercontent.com/cynicphoenix/Frozen-Lake/main/plot/Detereministic_Policy_Iteration.png)
 
 #### Deterministic Value Iteration
-<br />
 ![alt text](https://raw.githubusercontent.com/cynicphoenix/Frozen-Lake/main/plot/Deterministic_Value_Iteration.png)
-<br /><br />
 
 #### Stochastic Policy Iteration
-<br />
 ![alt text](https://raw.githubusercontent.com/cynicphoenix/Frozen-Lake/main/plot/Stochastic_Policy_Iteration.png)
-<br /><br />
 
 #### Stochastic Value Iteration
-<br />
 ![alt text](https://raw.githubusercontent.com/cynicphoenix/Frozen-Lake/main/plot/Stochastic_Value_Iteration.png)
-<br /><br />
 
 
 
